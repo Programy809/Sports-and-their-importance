@@ -1,0 +1,9 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-color: aqua;
+}
+p,h2,ul,li{
+    text-align: left;
+}
